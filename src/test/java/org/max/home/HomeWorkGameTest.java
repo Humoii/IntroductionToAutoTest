@@ -10,6 +10,7 @@ import java.util.List;
 public class HomeWorkGameTest {
 
     private List<Door> doors;
+    //на самом деле тут можно использоваь @BeforeAll, т.к. doors не меняется в течение всех тестов.
     @BeforeEach
     void doors(){
         doors = new ArrayList<>();
