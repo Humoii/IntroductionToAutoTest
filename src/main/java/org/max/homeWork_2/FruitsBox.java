@@ -2,7 +2,6 @@ package org.max.homeWork_2;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class FruitsBox implements Fruits {
 
