@@ -9,9 +9,12 @@ public class FruitsBox implements Fruits {
 
     @Override
     public void fruits() {
+        int i = 0;
         for (Fruits fruit: fruits) {
+            i++;
             fruit.fruits();
         }
+        System.out.println(i);
     }
 
     public  void removeFruits(Fruits element){

@@ -24,8 +24,8 @@ public class Main {
         fruitsBox1.addFruits(orange3);
         fruitsBox1.addFruits(orange4);
 
-        fruitsBox.addFruits(fruitsBox);
         fruitsBox.addFruits(fruitsBox1);
+        fruitsBox.addFruits(fruitsBox2);
 
         fruitsBox.fruits();
     }
