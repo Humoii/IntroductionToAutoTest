@@ -1,4 +1,9 @@
-package org.max.homeWork_2;
+package org.max.homeWork_2.Main;
+
+import org.max.homeWork_2.Body.FruitsBox;
+import org.max.homeWork_2.FruitsFolder.Apple;
+import org.max.homeWork_2.FruitsFolder.Banana;
+import org.max.homeWork_2.FruitsFolder.Orange;
 
 public class Main {
     public static void main(String[] args) {

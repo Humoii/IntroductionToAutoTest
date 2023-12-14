@@ -1,4 +1,4 @@
-package org.max.homeWork_2;
+package org.max.homeWork_2.Body;
 
 public class SumFruits {
     private int sum;
