@@ -8,13 +8,13 @@ public class FruitsBox implements Fruits {
     private final List<Fruits> fruits = new ArrayList<>();
 
     @Override
-    public void fruits() {
+    public Integer fruits() {
         int i = 0;
-        for (Fruits fruit: fruits) {
-            i++;
-            fruit.fruits();
+        SumFruits sumFruits = new SumFruits(i);
+        for (Fruits fruit : fruits) {
+            i = sumFruits.sumFruits(fruit.fruits());
         }
-        System.out.println(i);
+        return i;
     }
 
     public  void removeFruits(Fruits element){

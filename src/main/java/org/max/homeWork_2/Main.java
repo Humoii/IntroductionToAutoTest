@@ -27,6 +27,6 @@ public class Main {
         fruitsBox.addFruits(fruitsBox1);
         fruitsBox.addFruits(fruitsBox2);
 
-        fruitsBox.fruits();
+        System.out.println(fruitsBox.fruits());
     }
 }
