@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b87ebee5-3d7b-4de5-8eac-02e9042b1ed9" name="Changes" comment="HW_4">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/home/accu/HomeWork_5_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Zr45waT7rmvhRcZIkZMic2jGfm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/serge/Desktop/Vvedenie-v-automatizatsiy-testirovania/lib/txw2-2.3.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.39421967&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\Desktop\Vvedenie-v-automatizatsiy-testirovania\src\test\java\org\max\lesson3\demo\accuweather" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HomeWork_5_Test.testAccuweatherForecastTenDaysResponceEntity">
+    <configuration name="HomeWork_5_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.HomeWork_5_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork_5_Test.testAccuweatherForecastOneDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.HomeWork_5_Test" />
+      <option name="METHOD_NAME" value="testAccuweatherForecastOneDay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork_5_Test.testAccuweatherForecastTenDays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.HomeWork_5_Test" />
+      <option name="METHOD_NAME" value="testAccuweatherForecastTenDays" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork_5_Test.testAccuweatherForecastTenDaysErrorClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.HomeWork_5_Test" />
+      <option name="METHOD_NAME" value="testAccuweatherForecastTenDaysErrorClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork_5_Test.testAccuweatherForecastTenDaysResponceEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.HomeWork_5_Test" />
+      <option name="METHOD_NAME" value="testAccuweatherForecastTenDaysResponceEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HomeWork_5_Test.testAccuweatherForecastTenDaysResponceEntity" />
+        <item itemvalue="JUnit.HomeWork_5_Test.testAccuweatherForecastOneDay" />
+        <item itemvalue="JUnit.HomeWork_5_Test" />
+        <item itemvalue="JUnit.HomeWork_5_Test.testAccuweatherForecastTenDays" />
+        <item itemvalue="JUnit.HomeWork_5_Test.testAccuweatherForecastTenDaysErrorClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b87ebee5-3d7b-4de5-8eac-02e9042b1ed9" name="Changes" comment="" />
+      <created>1703166685314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703166685314</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HW_4">
+      <option name="closed" value="true" />
+      <created>1703703695139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703703695139</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/lesson5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_4" />
+  </component>
+</project>
